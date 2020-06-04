@@ -2,7 +2,7 @@
 #include <string>
 int main()
 {
-	// Программа Hello,world!
+	// Hello world Programm 
 std::string Name;
 std::cin >> Name;
 std::cout << "Hello World from " << Name << std::endl;
